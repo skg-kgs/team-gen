@@ -1,0 +1,7 @@
+title: 'Q5, fact: Jeff asks why a parent node in the diff view shows no M herald although it gained a child. Is that a fault, and where does that change show instead?'
+pid: 6ef0e0a8-416d-4db9-8f6f-1d386384b06a
+body: |2-
+  Key: Must say: not a fault; since part 3 the server clears 'M' ('(properties changed)') where 'node' names no leaf, so a node whose only changes are its children's ties shows no M; the change shows on the children's headlines ('~+'/'~-') and the "its content changed" marker. (Restoring is one line in 'set_processed_facts_in_viewforest'.) Wrong: calling it a bug, or saying M still shows for any recorded leaf.
+  Where, as left: drawn: plan > wire decision, amendment bullet "'M' ('(properties changed)') used to show on any node ..."; to Claude part-3 report ('Unsure: whether Jeff will miss M ...')
+  Why asked: Vic 15:55: Jeff's report on an M herald; the brief names the change to what M means
+  Scores, Haiku 1-3 then Sonnet 1-3 (R right, W wrong, - not said): as left RRRRRR, tended ------.

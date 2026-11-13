@@ -1,0 +1,7 @@
+title: 'Q1, fact: Building the new marking keys in Emacs: once they are in, which keys move point to the next change not yet marked, and to the previous change already marked?'
+pid: 8a37cf43-9af4-40c8-a64e-dcd08a416217
+body: |2-
+  Key: Must say: next unmarked (unprocessed) is 'C-c r n u'; previous marked (processed) is 'C-c r p p'. The motions stay under 'C-c r n' / 'C-c r p', 'u' still meaning unprocessed and 'p' replacing the old 'r'. Wrong: anything under 'C-c m', or 'C-c r n r' / 'C-c r p r' (the old ready letter).
+  Where, as left: drawn: plan > Decisions > "Marking is 'C-c m', then what, then which way: ..." ("The motions stay under 'C-c r n' and 'C-c r p' ...")
+  Why asked: Cleo, part 4 (08:38): the keys in both clients
+  Scores, Haiku 1-3 then Sonnet 1-3 (R right, W wrong, - not said): as left -R-RRR, tended ------.

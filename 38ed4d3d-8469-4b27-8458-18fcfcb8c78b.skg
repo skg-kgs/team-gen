@@ -1,0 +1,7 @@
+title: 'Q9, limit: For marks on another''s changes, can I reuse the fingerprint function of the marks on my own changes as it is? When is that hash acceptable and when not?'
+pid: 38ed4d3d-8469-4b27-8458-18fcfcb8c78b
+body: |2-
+  Key: Must say: the current fingerprint uses Rust's 'DefaultHasher', whose output is not promised stable across releases; that is acceptable only for the private store (costing at most an unmarking after a toolchain upgrade), and wrong for a marks file another server must read, which needs a specified hash (e.g. SHA-256 of a canonical form). Also acceptable to add: another's-change marks hash the after value only, not before and after. Wrong: 'yes, reuse it as is'.
+  Where, as left: drawn: what I know > the diff view, as built > "A mark on my own changes is a leaf key and a fingerprint, in a private file."; design > "Where the marks live, and how the author sees them." and "A processed mark must fingerprint only what I saw."
+  Why asked: future work on another's changes (Jeff's wishes; Tay's one-hash proposal deferred)
+  Scores, Haiku 1-3 then Sonnet 1-3 (R right, W wrong, - not said): as left RRRRRR, tended RRRRRR.

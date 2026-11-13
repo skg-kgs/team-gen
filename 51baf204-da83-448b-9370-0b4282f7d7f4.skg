@@ -1,0 +1,7 @@
+title: 'Q15, superseded: An AI reader user writes the handle word ''processed all'' on a headline and saves. What happens?'
+pid: 51baf204-da83-448b-9370-0b4282f7d7f4
+body: |2-
+  Key: Newer answer: the server refuses it ('Unknown diff object: all', no fallback) since part 3, and after Cleo's part 4 the reader's 'all' word is gone (or mapped as the plan decides); the reader's words become 'processed'/'unprocessed' with 'node', 'rel' or 'both' and optionally 'subtree' or 'outward'. Wrong: 'it marks every leaf the node records' (the pre-part-3 meaning of 'all').
+  Where, as left: drawn: plan > wire decision, last amendment bullet ('all' is refused ...); to Claude part-3 report ('the AI reader's all word is now refused'); plan > Marking decision ('The AI reader's handle words become ...'); part 4 removal: absent (Cleo's 08:38 brief)
+  Why asked: Cleo part 4 (the AI reader)
+  Scores, Haiku 1-3 then Sonnet 1-3 (R right, W wrong, - not said): as left RRRRRR, tended ------.

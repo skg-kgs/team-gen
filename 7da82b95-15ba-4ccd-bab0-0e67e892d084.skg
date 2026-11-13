@@ -1,0 +1,7 @@
+title: 'Q21, not-said: When a node''s title changes, does the diff view draw the old title somewhere under the node, and in which buffers?'
+pid: 7da82b95-15ba-4ccd-bab0-0e67e892d084
+body: |2-
+  Key: Right: my notes do not say (the place to look is 'docs/diff-view.org' and the code). Wrong: any claim from the notes that the old title is or is not drawn, or where.
+  Where, as left: absent
+  Why asked: Vic 15:55: Jeff saw a new title with no old title under it
+  Scores, Haiku 1-3 then Sonnet 1-3 (R right, W wrong, - not said): as left RRRRRR, tended RRRRRR.

@@ -1,0 +1,7 @@
+title: 'Q3, fact: Unmarking with ''n'' or ''b'' on a changeset marker (e.g. "its content changed"): can the client tell from the marker''s ''(leaves N ...)'' how many changes it will unmark, and what should it do before unmarking?'
+pid: f75dfdf1-5351-4335-b26a-cdd395bb5a57
+body: |2-
+  Key: Must say: no; a marker's '(leaves N ...)' lists only 'rel', never 'node', so 'n'/'b' there name leaves N does not count; the client should treat it as wide (as the walks are) and ask before unmarking. Wrong: 'N is the exact count' or 'no need to ask'.
+  Where, as left: drawn: to Claude > "2026-11-13: Part 3 is built ..." (For Cleo, second bullet); also plan > wire decision, amendment bullet "A changeset marker's '(leaves ...)' lists only 'rel' ..."
+  Why asked: Cleo, part 4: 'how to count a wide unmark before asking'
+  Scores, Haiku 1-3 then Sonnet 1-3 (R right, W wrong, - not said): as left RRRRRR, tended ------.

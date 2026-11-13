@@ -1,0 +1,7 @@
+title: 'Q19, placement: Jeff answers: when you start following someone''s skgrepo, everything up to their latest commit counts as already processed. Where in my graph does his answer belong?'
+pid: 252815c6-2aed-44ef-85d0-5c0005204130
+body: |2-
+  Key: Must name: the design 'another's changes in the diff view: a design' > 'questions for Jeff' > the question 'When you begin to follow someone's skgrepo, is everything up to their latest commit already processed, or nothing?'. Wrong: the plan's 'questions for Jeff' (that plan is about the containers folder, the rename and the keys).
+  Where, as left: drawn: design > questions for Jeff > "When you begin to follow someone's skgrepo ..."
+  Why asked: future work on another's changes
+  Scores, Haiku 1-3 then Sonnet 1-3 (R right, W wrong, - not said): as left RRRRRR, tended RRRRRR.

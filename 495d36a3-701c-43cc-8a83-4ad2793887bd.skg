@@ -1,0 +1,7 @@
+title: 'Q6, fact: Jeff''s 15:55 report: could part 1 of the plan (Drew''s) be what took something out of what a node draws in the diff view? Say what part 1 removed from views.'
+pid: 495d36a3-701c-43cc-8a83-4ad2793887bd
+body: |2-
+  Key: Must say: part 1 only leaves a node's view-ancestors out of its containers folder (and does not draw that folder when none are left; relabels it "These also contain it." / "its other containers changed (other files)"), including the diff view's changed-containers folder; the server warns "No other containers.". Nothing about a node's text or old title. Wrong: saying part 1 removed old-text or body drawing, or other folders.
+  Where, as left: drawn: plan > Decisions > "A container is left out when it is any view-ancestor of the node ..." and the labels / 'No other containers.' decisions; Goals
+  Why asked: Vic 15:55: the brief asks whether part 1 took the old title away on purpose
+  Scores, Haiku 1-3 then Sonnet 1-3 (R right, W wrong, - not said): as left RRRRRR, tended RR---R.
