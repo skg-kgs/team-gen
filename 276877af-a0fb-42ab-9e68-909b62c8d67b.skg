@@ -1,0 +1,13 @@
+title: 3. Why a plan has these parts, and the example between parts
+pid: 276877af-a0fb-42ab-9e68-909b62c8d67b
+body: |2-
+  Rests on: read (Google: alternatives considered are the most
+  important part, non-goals, the 1-3 page mini design doc; Nygard's
+  decision records; Oxide's states; Anthropic's research system: a
+  brief needs an objective, an output, its tools and its boundaries,
+  and vague briefs caused duplicated work; GitHub's spec-driven
+  development: tasks small enough to check in isolation).
+  First use: Libby found that the server's builder and the clients'
+  would each have guessed the form of the messages between them; the
+  plan then gave whole examples, and the two parts met. The state
+  'being built' is from the first use too: Vic's plan needed it.

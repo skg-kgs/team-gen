@@ -1,20 +1,13 @@
 title: 3. A plan is one note of a page or two, whose headlines are its decisions.
 pid: 52f44494-0400-4a4b-9837-b791929bf77c
 body: |2-
-  It sits in its author's graph, under "what I know". In order:
-  - its state, in the first line of its body: proposed, accepted,
-    built, or abandoned;
-  - the request, linked, and the appetite;
-  - goals, and non-goals: what it could reasonably do and will not;
-  - the decisions, each a headline that states it, its body giving
-    the alternatives rejected and why, and whether it is a one-way door;
-  - questions for Jeff, as few as can be, each with the answer the
-    author recommends and what gets built if he does not answer;
-  - the building missions, each with its objective, what it may
-    touch, and its check: a test to pass, or what to run and see.
-  Rests on: read (Google: alternatives are the most important part,
-  non-goals, the 1-3 page mini design doc; Nygard's decision records;
-  Oxide's states; Anthropic's research system: a brief needs an
-  objective, an output, its tools and its boundaries, and vague briefs
-  caused duplicated work; GitHub's spec-driven development: tasks
-  small enough to check in isolation).
+  Its first lines: its state (proposed, being built, built or
+  abandoned), its signs and tier (step 4), the request, linked, and the
+  appetite. Then goals and non-goals; the decisions, each stating
+  itself, its body giving the alternatives rejected and whether it is
+  a one-way door; questions for Jeff, each with a recommended answer
+  and what is built if he does not answer; and the building missions,
+  each with its objective, what it may touch, and its check. Where
+  one part sends what another receives, the plan gives a whole example
+  of it before either is built.
+  Why, and its sources: [[id:276877af-a0fb-42ab-9e68-909b62c8d67b][step 3, its reasons]].

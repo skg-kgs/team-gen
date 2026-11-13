@@ -1,0 +1,42 @@
+title: 8. Why every change is reviewed, by whom, against what, and how much
+pid: cc0a2efe-72ce-48e7-b7f4-fdd512adf199
+body: |2-
+  First use: the fresh subagent found real faults in four building
+  missions of five, each after every suite had passed: a weakened test
+  (Drew), a missed test name (Vic, part 2), an over-wide validation and
+  untested cases (Vic, part 3), and in Cleo's part a wrong leaf for
+  unknown viewnodes and a crash in the AI reader. A subagent costs no
+  mission, so the cheapest check we have is also the one that found
+  the most. Hence no change to the code, tests or docs goes unreviewed,
+  planned or not (ours).
+  Why a fresh mind and not the builder rereading: models struggle to
+  correct their own reasoning without feedback from outside, and can
+  get worse trying (Huang et al. 2023, read); and an evaluator scores
+  outputs it recognizes as its own higher (Panickssery et al. 2024,
+  read). A fresh subagent still shares the builder's model; it lacks
+  only the reasoning. So a finding is trusted when it rests on
+  something outside the model: a line of the plan it departs from, a
+  line of code quoted, or a test that fails first (ours). Claude Code's
+  own Code Review checks each finding against the code before
+  reporting it (read); here the builder does that check.
+  Why against the plan and the maps, and not for style: Claude Code's
+  Code Review looks by default for "bugs that would break production,
+  not formatting preferences" (read); Google's reviewers approve a
+  change that improves the code's health even if imperfect, and mark
+  the rest "Nit" (read). Understanding the change is the main challenge
+  of review, and its main outcomes are as much knowledge and awareness
+  as defects (Bacchelli and Bird 2013, read in the abstract); an
+  owner's map lends the reviewer that understanding without a mission
+  (ours).
+  Why some 400 lines each: in Cisco's study people found most defects
+  reviewing 200 to 400 lines at a time, and fewer beyond (read in
+  SmartBear's account of it); Google holds 100 lines a reasonable
+  change and 1000 too large (read). That a model's attention thins the
+  same way is my inference, unsure. Several reviewing agents on one
+  change is how Claude Code's Code Review works (read).
+  Why the owner reads the commits later rather than reviewing: a
+  review mission per change, by the owner, is the human practice
+  (Google: a median of one reviewer, read in summaries) and here would
+  double the missions. The owner's real gain is awareness (Bacchelli
+  and Bird), which a later reading gives. First use: Vic asked Cleo to
+  read the commits of his that changed her files.

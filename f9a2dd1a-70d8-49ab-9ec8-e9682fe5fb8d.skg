@@ -1,0 +1,10 @@
+title: 'Kim et al., "Towards a Science of Scaling Agent Systems" (Google, 2025): coordinated agents help a task that splits into parallel parts and hurt a sequential one; agents working apart amplify errors 17.2 times, under one coordinator 4.4.'
+pid: f9a2dd1a-70d8-49ab-9ec8-e9682fe5fb8d
+body: |2-
+  https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/
+  Read: Google's blog post on it (arXiv 2512.08296), not the paper.
+  180 configurations, four benchmarks, three model families. +81% on a
+  financial task that splits; every variant 39 to 70% worse on a
+  sequential planning task; coordination costs rise with the number of
+  tools. Took: parts in sequence under one coordinator; never builders
+  apart on one contract.

@@ -1,0 +1,8 @@
+title: 'McIntosh, Kamei, Adams and Hassan (2014): components with low review coverage and participation had more defects after release, in Qt, VTK and ITK.'
+pid: 796ffd91-ccd1-427e-9c83-7d3aaf5408a6
+body: |2-
+  https://rebels.cs.uwaterloo.ca/confpaper/2014/05/30/the-impact-of-code-review-coverage-and-code-review-participation-on-software-quality.html
+  Summary, unchecked: up to two and five more defects per component. A
+  replication at Sony Mobile (2016) found no such relation. Took
+  little: weak support for reviewing every change; our own count is
+  stronger.

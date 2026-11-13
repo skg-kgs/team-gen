@@ -1,0 +1,9 @@
+title: 'Anthropic, Claude Code''s "Code Review": several agents search a change in parallel, a verification step drops false positives, and the rest are ranked; by default it looks for correctness, not style.'
+pid: e5df630c-8da4-4110-a908-94b08ad9ec84
+body: |2-
+  https://code.claude.com/docs/en/code-review
+  Read. It looks for "bugs that would break production, not formatting
+  preferences or missing test coverage"; it never approves or blocks,
+  "so the decision to merge stays with your team"; it reads the diff
+  and the code around it without running anything. A false positive
+  rate under one percent I saw only in news reports: unchecked.

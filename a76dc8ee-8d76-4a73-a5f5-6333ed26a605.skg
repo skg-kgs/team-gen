@@ -1,19 +1,9 @@
-title: 7. Each building mission carries out one part of the plan, and is done when that part's check passes, with the evidence shown.
+title: 7. A building mission builds one part, and is done when the part's check passes and its review is answered, with the evidence shown.
 pid: a76dc8ee-8d76-4a73-a5f5-6333ed26a605
 body: |2-
-  Top's mission links the plan and names the part; it does not restate it.
-  The builder does not change a decision silently. Where the code
-  shows a decision wrong, it edits the decision where it stands and
-  says why; if that passes a one-way door, it stops and says so in
-  its 'to Claude'.
-  It marks its part built in the plan only when the check passes, and
-  puts the command it ran and what it printed in its report.
-  Before stopping, it has a fresh subagent, which never saw its
-  reasoning, compare its changes with its part of the plan, skipping
-  style. That is the check against the plan, and it costs no mission.
-  Top reads the builder's 'to Claude' and the plan's state, not the code.
-  Rests on: read (Anthropic's long-running harnesses: agents declare
-  victory early, so a part is marked passing only after testing it
-  as a user would, and the list of parts is not edited by the
-  builders; Claude Code's best practices: ask for evidence, and
-  review against the spec in a fresh subagent).
+  Top's mission links the plan and names the part; for an unplanned
+  request it says what done looks like. The builder changes no decision
+  silently: where the code shows one wrong, it amends the decision and
+  says why, and at a one-way door it stops and says so. Its report
+  gives the commands it ran and what they printed.
+  Why, and its sources: [[id:313a26c2-aa2c-4348-96b2-b575e6a0c623][step 7, its reasons]].

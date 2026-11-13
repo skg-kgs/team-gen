@@ -1,0 +1,15 @@
+title: 8. Every change to the repository is reviewed before its mission ends, planned or not, by fresh subagents that never saw the builder's reasoning.
+pid: 316159fa-ed39-4bc5-81c7-8b6784f12f7f
+body: |2-
+  They review it against the part of the plan, or the mission's "what
+  done looks like", and the maps of the territories it touches; for
+  what is wrong and what departs, never for style. Each reads at most
+  some 400 changed lines; a larger change is split among several by
+  commit or layer. A part that passes a one-way door gets one more,
+  which looks only at that door. The builder answers every finding:
+  fixed, with a test that fails first where a test can show it, or
+  declined, with the reason in its report. Only changes to notes go
+  unreviewed. A change in another's territory is listed in the report
+  for that owner, who reads those commits when next it works, and
+  mends its map.
+  Why, and its sources: [[id:cc0a2efe-72ce-48e7-b7f4-fdd512adf199][step 8, its reasons]].

@@ -1,0 +1,9 @@
+title: 'SmartBear, on Cisco''s study of code review: people find most defects reviewing 200 to 400 lines at a time, under 500 an hour, for at most 60 to 90 minutes.'
+pid: f064d0d0-efd9-46ff-8f2a-778d6301bf5a
+body: |2-
+  https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/
+  Summary, by the vendor whose tool was studied. Lightweight review
+  "takes less than 20% the time of formal reviews and finds just as
+  many bugs". Checklists help; authors who annotate their change find
+  defects before the review. Took: the slice of some 400 lines; that it
+  transfers to a model is my inference.

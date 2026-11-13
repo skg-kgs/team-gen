@@ -1,0 +1,6 @@
+title: 'Google, "Small CLs" (eng-practices): small changes are reviewed faster and more thoroughly; 100 lines is reasonable, 1000 usually too large.'
+pid: 7422c966-6f53-4bb9-be63-a33a8a77f08c
+body: |2-
+  https://google.github.io/eng-practices/review/developer/small-cls.html
+  Read. Reviewers may reject a change "for the sole reason of it being
+  too large". Took: each reviewer's slice is small.

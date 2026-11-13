@@ -1,0 +1,8 @@
+title: 'Google, "The Standard of Code Review" (eng-practices): approve a change once it clearly improves the code''s health, even if it is not perfect.'
+pid: af788b42-fd06-4123-ad64-d7552d94be32
+body: |2-
+  https://google.github.io/eng-practices/review/reviewer/standard.html
+  Read. "There is no such thing as 'perfect' code—there is only better
+  code." Minor points are prefixed "Nit:" and are optional. A reviewer
+  may still refuse a change nobody wants. Took: review for what makes
+  the code worse or departs from what was asked, not for polish.

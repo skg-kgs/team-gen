@@ -1,37 +1,10 @@
-title: '4. How hard a plan is checked is set by signs anyone can count: the planner counts them, Tay may raise the tier but never lower it, and Top only looks it up.'
+title: '4. How hard a plan is read is set by signs anyone can count: the planner counts them, Tay may raise the tier but not lower it, and Top only looks it up.'
 pid: 7e712327-58f6-46c1-afc7-0ab909b7c33f
 body: |2-
-  The signs, asked of the plan as written:
-  - one-way doors among its decisions (step 1 says what counts);
-  - territories it changes, and whether it crosses a border that does
-    not follow files;
-  - building missions it needs, and whether any is built by a
-    specialist other than the author's;
-  - questions it leaves for Jeff that Tay cannot answer.
-  They set the tier, and the tier sets the checking:
-  - none: no plan (step 1). The building mission's check and its
-    fresh subagent (step 7) are all.
-  - Tay: one territory, one building mission by the author's own
-    specialist, no one-way door.
-  - Tay, then Libby: a border crossed, or more than one building
-    mission, or a builder other than the author's specialist.
-  - Tay, Libby, and Jeff: any one-way door, or a question Tay cannot
-    answer from Jeff's taste. Jeff hears only those decisions, never
-    the whole plan (step 6).
-  The planner writes the counts and the tier in the plan's first
-  lines, beside its state. Top reads those lines, not the plan, and
-  briefs the readers the tier names. Tay reads every plan, so Tay
-  checks the count; Tay may raise the tier, and lowering it takes
-  Top's word. Every judgement here is a count, so judging costs no
-  mission and no more than a minute of anyone's reading.
-  So the judges are Top for the request, the planner for the plan,
-  and Tay for the count: no new specialist, and no judging mission.
-  Why, in [[id:7c1c9b52-05d2-4d67-8891-b1f937b06b39][where the planning procedure departs from its sources]].
-  Rests on: read (ITIL's change enablement: approval is set by risk,
-  low-risk standard changes need no sign-off, and not every change
-  goes to one board; Bezos 2015: the heavy process used for
-  everything makes an organization slow; Anthropic's research
-  system: agents misjudge how much effort a task deserves, so the
-  rules for scaling it are written out; Rust's list of what is
-  "substantial"). Ours: the signs, the tiers, who counts. ? (unsure:
-  whether a planner counts its own plan honestly.)
+  The signs: one-way doors; territories changed and borders crossed;
+  building missions, and builders other than the author's specialist;
+  questions for Jeff that Tay cannot answer. The tiers:
+  - Tay: one territory, one building mission by the author's own specialist, no one-way door.
+  - Tay, then Libby: a border crossed, more than one building mission, or another builder.
+  - Tay, Libby and Jeff: any one-way door, or a question Tay cannot answer.
+  Why, and its sources: [[id:f73e6a70-70f3-47e4-b6ae-388b1b973915][step 4, its reasons]].

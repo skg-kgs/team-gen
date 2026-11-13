@@ -1,0 +1,9 @@
+title: 'Bacchelli and Bird, "Expectations, Outcomes, and Challenges of Modern Code Review" (2013): finding defects is the main motive, but review is "less about defects than expected", and gives knowledge transfer and awareness.'
+pid: da042344-b1df-4dd7-b957-58815320d80b
+body: |2-
+  https://www.microsoft.com/en-us/research/publication/expectations-outcomes-and-challenges-of-modern-code-review/
+  Abstract only; the PDF would not extract. Developers at Microsoft
+  observed, interviewed and surveyed, hundreds of comments classified.
+  "Code and change understanding is the key aspect of code reviewing."
+  Took: lend the reviewer the owner's map, and have the owner read the
+  commits for awareness.

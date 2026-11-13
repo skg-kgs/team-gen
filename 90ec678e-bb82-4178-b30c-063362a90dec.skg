@@ -1,0 +1,13 @@
+title: Working together beats one mind when the work splits into parts with no decision in common, or when the best decision needs facts only another holds.
+pid: 90ec678e-bb82-4178-b30c-063362a90dec
+body: |2-
+  Read: Google's study of 180 agent systems (Kim et al. 2025) found
+  coordinated agents 81% better than one on a task that splits into
+  parallel parts; Anthropic's research system gains most on
+  breadth-first questions. Read in summaries: in the "hidden profile"
+  experiments (Stasser and Titus 1985) the best choice is visible only
+  when each member's unique facts are pooled, and groups rarely find it.
+  Ours, from the first use: three specialists built the four parts of
+  Vic's plan, one after another, each in its own territory, and it
+  worked; Drew answered a question in his building mission that Vic's
+  plan could not.

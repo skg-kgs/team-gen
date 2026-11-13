@@ -1,0 +1,19 @@
+title: 9. Why one record, and how a builder of another graph marks its part
+pid: 0aa940c0-0ca2-42b4-966c-ddd3da23761a
+body: |2-
+  What the code records (what changed, the contracts in 'docs/') the
+  plan links to and does not repeat.
+  First use: Cleo built part 4 of Vic's plan and could not write Vic's
+  graph, where the plan is; she wrote "For Vic to record in the plan"
+  in her report, and the plan still said her part was next. Rejected:
+  the builder forks the part, which splits the one record (a fork Vic
+  made by accident surprised him); the plan's owner marks it at its
+  next mission, which may be days away while the plan reads wrong. Top
+  puts the lines in because it reads every report and already writes
+  in every graph when it tends them; it copies, it does not judge
+  (ours, unsure).
+  Rests on: read (Nygard: one decision per record, kept with the work;
+  Oxide: a committed RFD describes how the system now works). Ours:
+  editing in place, departing from Nygard and Rust, who keep old
+  records and supersede them, because here Git keeps the history and
+  a second note on one thing is a loss.

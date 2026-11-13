@@ -1,0 +1,8 @@
+title: 'Frederick Brooks, The Mythical Man-Month (1975): conceptual integrity needs a design from one mind or a few; n people have n(n-1)/2 channels.'
+pid: 05c00e7e-21b1-47f2-989f-04bf07aed7f3
+body: |2-
+  https://en.wikipedia.org/wiki/The_Mythical_Man-Month
+  Summary: Wikipedia and lecture notes, not the book. The surgical
+  team: one does the critical work, the others support it. "Adding
+  manpower to a late software project makes it later." Took: one
+  author; the builders of parts are its support.
