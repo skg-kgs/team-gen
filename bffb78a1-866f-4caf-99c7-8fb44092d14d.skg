@@ -1,0 +1,13 @@
+title: 'Anthropic, Claude Managed Agents, "Dreams" (research preview, 2026): a dream reads a memory store and up to 100 transcripts and writes a new store, merged, with stale entries replaced and new insights surfaced; it never modifies its input, so the output is reviewed, then adopted or discarded.'
+pid: bffb78a1-866f-4caf-99c7-8fb44092d14d
+body: |2-
+  https://platform.claude.com/docs/en/managed-agents/dreams
+  Read. It says memory writes made while working "are local and
+  incremental", so a store accumulates "duplicates, contradictions,
+  and stale entries". The pipeline is "a synthesis pass over the
+  inputs, not an editor applied to the text of the store". Advice:
+  "Start with a small batch of sessions and scale up once you're
+  satisfied with the curation quality". It gives no measure of quality.
+  Took: the input is never changed; ours is the same, since Top commits
+  a graph as its specialist left it before tending, and reviews the
+  uncommitted changes of a mission before committing them.

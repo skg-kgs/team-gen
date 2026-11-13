@@ -1,0 +1,11 @@
+title: 'Park et al., "Generative Agents" (2023): reflection, run when recent events'' importance passes a threshold, two or three times a simulated day, made behavior more believable to human judges.'
+pid: 8eab9320-d9c2-407f-a42e-c46bf86ebfdd
+body: |2-
+  https://arxiv.org/abs/2304.03442
+  Read (full text, through ar5iv). Threshold 150 of summed importance.
+  TrueSkill: full architecture 29.89, no reflection 26.88, no
+  reflection or planning 25.64, human crowdworkers 22.95. Failures it
+  names: retrieval that misses, embellishment (an agent added an
+  announcement nobody made), 1.3% hallucinated answers. Took: the one
+  measured gain from reflection with no task in hand, and it was gated
+  by how much had happened, not by the clock.

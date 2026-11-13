@@ -1,0 +1,7 @@
+title: 'Letta, sleep-time agents (docs, 2025): a second agent rewrites the first''s memory blocks every N steps, 5 by default.'
+pid: e91c09b4-98a2-413f-a8b5-bad0f8454044
+body: |2-
+  https://docs.letta.com/guides/agents/architectures/sleeptime/index.md
+  Summary. Marked experimental. A user on Letta's forum reports it
+  firing every five steps and doing nothing. Took: a fixed schedule
+  fires whether or not there is anything to do.

@@ -1,0 +1,17 @@
+title: 'Zhang, Lin, Wu, Sun, Li, Li and Peng, "Useful Memories Become Faulty When Continuously Updated by LLMs" (2026): consolidating raw experience into lessons first helped, then hurt, sometimes below no memory; keeping the raw episodes did as well as every consolidator tested.'
+pid: e24a9407-8234-4ffb-844c-c174885a4e2e
+body: |2-
+  https://arxiv.org/abs/2605.12978 and https://dylanzsz.github.io/faulty-memory/
+  Abstract and the project page. GPT-5.4 then failed 54% of 19 ARC-AGI
+  problems it had solved with no memory, though consolidating from the
+  right answers. Three failures: misgrouping (lessons from different
+  kinds of problem merged), interference (each pass smooths away the
+  conditions under which a lesson applies; consolidating everything so
+  far did 203 points worse than consolidating only the latest task, and
+  made over-general memories 5 times as often), overfitting (after 49
+  rewrites the attribute that mattered was gone). An agent forced to
+  consolidate every round did worst; one that chose kept mostly raw
+  episodes. They advise consolidation "selective, batched, and gated".
+  Many results are one seed. Took: the danger is in abstracting, not in
+  keeping; and interference is exactly the loss of a principle's limit,
+  which [[id:bcfa8e05-c55d-4e05-8b7a-0f62a681445c][our note on limits]] says is obeyed only when written inside it.

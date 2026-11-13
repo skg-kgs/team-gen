@@ -1,0 +1,16 @@
+title: Tell better from different by probes written before the tending, answered by fresh minds from the graph as it was and as it is.
+pid: b1f43a56-8686-49c0-a204-0c4fbee54078
+body: |2-
+  A tending is better if a mind holding only the graph answers more of
+  what that specialist's next missions will need, loses nothing it
+  answered before, and reads no more to do it. Probes, not judgment:
+  a mind asked whether a graph is better judges the writing, and the
+  writing is what changed. Every published measure is of this kind,
+  the task done with the memory before and after and with none at all
+  (ACE, the faulty-memory paper, MemoryAgentBench), never a rating of
+  the memory itself. It is how [[id:034344fc-388e-4248-ac3b-d130d1049568][Tay's note on Jeff's taste was tested]]:
+  cases with known answers, minds holding only the note.
+  Git already holds ten such pairs from 2026-11-13, a commit "as NAME
+  left it" followed by "Tended: ...", in Vic's, Tay's, Cleo's, Libby's
+  and Drew's skgrepos, so the test can be run on tendings already done
+  before any more are. The steps are in [[id:acc8c677-9169-43ab-9bc2-e14c190d6442][the probe test of a tending, step by step]].

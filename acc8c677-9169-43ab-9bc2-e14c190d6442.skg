@@ -1,0 +1,45 @@
+title: the probe test of a tending, step by step
+pid: acc8c677-9169-43ab-9bc2-e14c190d6442
+body: |2-
+  For whoever runs it. Written 2026-11-13 by Gen; not yet run. Why it
+  is built this way is in [[id:797628ed-c9fb-4a08-8922-d59eb854eed5][what I found on going back over a graph]].
+  1. Pick a pair. In 'data/claude/team/NAME/notes', 'git log' shows a
+     commit "..., as NAME left it" and then one "Tended: ...". Start
+     with Vic's (4cc6854, then d273b28), where tending put a 330-line
+     plan behind a link, and Libby's (878d3fe, then df4fc36), where it
+     raised a general lesson above her one reading.
+  2. Render what a waking mind reads at each commit: the home note drawn
+     to every depth, as 'view' draws it. A scratch server on a checkout
+     of the commit does it ("Running a scratch server for it" in
+     'tools/skg-for-ai/README.org'); so would a short script following
+     'contains' through 'git show COMMIT:ID.skg'. Leave link targets
+     out, and note which probes needed one.
+  3. Write the probes before anyone sees the tended version, by a mind
+     that did not tend it and will not. It reads the graph as left, the
+     transcripts of that specialist's missions, and the briefs of the
+     missions after, which say what it came to need. Twenty to thirty
+     probes, each with its answer and where the answer is, of five kinds:
+     - a fact the graph holds that a later mission needed;
+     - the limit of a principle, when its lesson does not apply
+       (consolidation strips these first);
+     - a superseded fact, where only the newer answer is right;
+     - placement: where in the graph a note on a given thing would go
+       (a third of the taste tests' misses were of this kind);
+     - a question the graph cannot answer, whose right answer is "my
+       notes do not say" (consolidation adds over-general claims and
+       embellishment).
+     Keep the probes in the tester's graph, never in the tested one, so
+     no tender writes toward them.
+  4. Answer: fresh minds given one rendering and the probes, nothing
+     else; Haiku and Sonnet, three runs each per version, as the taste
+     tests used. Run them also with no graph at all, and drop the probes
+     a model answers unaided: those do not measure the graph.
+  5. Grade with the key, by a mind that neither tended nor answered:
+     each answer right, wrong, or "not said".
+  6. Verdict. Better: more probes right after, no fact or limit probe
+     going from right to wrong in most runs, and the rendering no
+     longer. Only different: about the same scores and length. Worse:
+     any probe right before and wrong after in most runs; each names
+     what the tending lost, which is then put back.
+  7. Report what the whole cost, so the next choice about tending can
+     weigh it.
