@@ -1,0 +1,9 @@
+title: 'Anthropic, "Building effective agents" (2024): start with the simplest thing, and add steps only when they demonstrably improve the outcome.'
+pid: 272c2776-82fa-41cf-aba2-a0aeb7e53cc3
+body: |2-
+  https://www.anthropic.com/engineering/building-effective-agents
+  The workflows it names fit us: our process is prompt chaining with
+  gates (plan, read, build, check) and an orchestrator (Top). Agents
+  should pause for human input "at checkpoints or when encountering
+  blockers", and have stopping conditions. Its three principles:
+  simplicity, transparency of the plan, careful interfaces.

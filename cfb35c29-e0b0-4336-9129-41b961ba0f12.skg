@@ -1,0 +1,8 @@
+title: 'Rust RFC process: an RFC is needed for a change in meaning or a removal, not for bug fixes, refactors or documentation.'
+pid: cfb35c29-e0b0-4336-9129-41b961ba0f12
+body: |2-
+  https://github.com/rust-lang/rfcs/blob/master/README.md
+  A final comment period of ten days, after every subteam member
+  signs off. An accepted RFC is not changed much afterward: minor
+  amendments only, and a larger change is a new RFC with a note on
+  the old one.

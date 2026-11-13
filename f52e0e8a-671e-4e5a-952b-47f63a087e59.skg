@@ -1,0 +1,7 @@
+title: '? A planner counts its own plan''s signs honestly.'
+pid: f52e0e8a-671e-4e5a-952b-47f63a087e59
+body: |2-
+  Trial: for the next three plans, Tay records whether it raised the
+  tier and why. If it never needs to, the count stands; if it often
+  does, Top counts from the plan's decisions instead, at the cost of
+  reading them.

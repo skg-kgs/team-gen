@@ -1,0 +1,6 @@
+title: 'GitHub, "Spec-driven development with AI" (Spec Kit, 2025): specify, plan, break into tasks each testable alone, implement, with a human checking each phase before the next.'
+pid: f4245802-e77d-475c-b062-1d83a48447b3
+body: |2-
+  https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/
+  The spec is meant to be the living source of truth. It names no
+  case in which the method is not worth it, beyond quick prototypes.

@@ -1,0 +1,28 @@
+title: 1. On arrival, Top asks four questions. A request that answers no to all four goes straight to its owner as one building mission, unplanned.
+pid: 2d90388e-1975-493d-bcda-39db7647234b
+body: |2-
+  - Is there more than one reasonable way to do it, and does the choice
+    matter? A plan that would only say "this is how we will build it"
+    is not worth writing.
+  - Does it cross a border: two territories, or one of the "three
+    borders that do not follow files" in [[id:f677a22d-0dc2-4c07-95c8-82db97739a62][the team that builds skg]]?
+    Minds that work on one change one after another each make choices
+    the other cannot see, and the choices conflict.
+  - Does it pass a one-way door: what is written to disk, the wire
+    protocol, what becomes visible in a public skgrepo, a feature
+    removed, anything by which Jeff's data could be lost?
+  - Will it take more than one building mission? A mind that tries to
+    finish a large thing in one session runs out of room and leaves
+    it half done for the next.
+  Most requests answer no to all four, and planning those is the
+  costly error. An unplanned request still gets a mission that says
+  what done looks like (step 7).
+  For a planned request, Top writes in the planning mission an
+  appetite: how many building missions the request is worth. It is a
+  budget, not an estimate; the plan shapes the work to fit it.
+  Rests on: read (Google's design docs; Cognition; Bezos's one-way
+  doors; Rust's "substantial" changes; Anthropic's long-running
+  harnesses; Anthropic's research system, whose early versions spent
+  fifty agents on simple questions; Shape Up's appetite). The four
+  questions as a set are ours, and ? (unsure: the threshold).
+  The four answers are also the request's first tier (step 4).

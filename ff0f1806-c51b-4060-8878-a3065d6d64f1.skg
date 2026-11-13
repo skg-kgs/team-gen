@@ -1,0 +1,12 @@
+title: 'Anthropic, "How we built our multi-agent research system" (2025): a brief needs an objective, an output, its tools and its boundaries; effort must be scaled to the task.'
+pid: ff0f1806-c51b-4060-8878-a3065d6d64f1
+body: |2-
+  https://www.anthropic.com/engineering/multi-agent-research-system
+  Multi-agent work used about 15 times the tokens of a chat, and fits
+  poorly where agents must share context or depend on each other, as
+  in coding. Vague briefs made subagents duplicate work. The lead
+  saves its plan to memory so it survives the context being cut.
+  Early versions spawned fifty subagents for simple questions, so
+  they wrote explicit effort rules into the prompts. Outputs written
+  to files and passed by reference avoid a game of telephone. One
+  judging call with a rubric was the most consistent evaluator.

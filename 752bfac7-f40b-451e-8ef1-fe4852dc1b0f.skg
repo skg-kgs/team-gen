@@ -1,0 +1,14 @@
+title: 8. The plan is the one record. Missions, readings and reports link to it and never copy it.
+pid: 752bfac7-f40b-451e-8ef1-fe4852dc1b0f
+body: |2-
+  After building, its state becomes 'built', and it stays as the
+  record of why. A decision changed later is edited where it stands,
+  with a line saying when and why; Git keeps the old words. What the
+  code records (what changed, the contracts in 'docs/') the plan
+  links to and does not repeat. Each owner whose territory the plan
+  changed links it from its map.
+  Rests on: read (Nygard: one decision per record, kept with the
+  work; Oxide: a committed RFD describes how the system now works).
+  Ours: editing in place, departing from Nygard and Rust, who keep
+  old records and supersede them, because here Git keeps the history
+  and a second note on one thing is a loss.

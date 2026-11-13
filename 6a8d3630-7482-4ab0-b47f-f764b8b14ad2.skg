@@ -1,0 +1,9 @@
+title: 'Cognition, "Don''t build multi-agents" (Walden Yan, 2025): actions carry implicit decisions, and conflicting decisions carry bad results.'
+pid: 6a8d3630-7482-4ab0-b47f-f764b8b14ad2
+body: |2-
+  https://cognition.com/blog/dont-build-multi-agents
+  Its example: a Flappy Bird clone split between two subagents came
+  back as a Mario background and a bird that moved wrongly. It
+  prefers one thread of decisions, with compression for long tasks.
+  Subagents that only answer a question, sequentially, are fine.
+  This is why step 2 has one author and step 1 counts borders.
