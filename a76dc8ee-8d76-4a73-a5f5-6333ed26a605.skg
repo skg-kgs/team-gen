@@ -1,9 +1,0 @@
-title: 7. A building mission builds one part, and is done when the part's check passes and its review is answered, with the evidence shown.
-pid: a76dc8ee-8d76-4a73-a5f5-6333ed26a605
-body: |2-
-  Top's mission links the plan and names the part; for an unplanned
-  request it says what done looks like. The builder changes no decision
-  silently: where the code shows one wrong, it amends the decision and
-  says why, and at a one-way door it stops and says so. Its report
-  gives the commands it ran and what they printed.
-  Why, and its sources: [[id:313a26c2-aa2c-4348-96b2-b575e6a0c623][step 7, its reasons]].

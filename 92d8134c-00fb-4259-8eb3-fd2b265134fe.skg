@@ -1,9 +1,0 @@
-title: 'Anthropic, "Effective context engineering for AI agents" (2025): the smallest set of high-signal tokens, at the right altitude, with notes kept outside the context.'
-pid: 92d8134c-00fb-4259-8eb3-fd2b265134fe
-body: |2-
-  https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents
-  Between brittle rules and vague guidance is the "right altitude".
-  Long work survives by compaction, by notes the agent writes and
-  rereads, or by subagents that return a condensed summary. Load
-  references just in time rather than all at once. Our graph is the
-  note-taking kind; the request barrier of the home note is its altitude.

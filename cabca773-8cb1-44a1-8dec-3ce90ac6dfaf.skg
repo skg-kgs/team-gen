@@ -1,7 +1,0 @@
-title: 'Q7, limit: On a modified node I mark both the node and its relationship (''b p'') without C-u. Are the containment changes of its children marked too? Is there any place in a buffer where ''node'' plus ''rel'' does cover everything the node''s file records?'
-pid: cabca773-8cb1-44a1-8dec-3ce90ac6dfaf
-body: |2-
-  Key: Must say: no, children's containment changes are left to the children (each child's 'r', or C-u), because a mark marks what its headline shows; BUT in a folder (where nothing is drawn under the headline), 'node' with 'rel' is the node's whole file. Wrong: 'yes, b marks the children's ties' (the old toggle's behaviour), or omitting the folder exception.
-  Where, as left: drawn: what I know > the diff view, as built > "A mark rides on a save; there is no request to mark." (second paragraph); plan > "Marking both a changed node and its relationship no longer marks its children's containment changes; C-u marks them."
-  Why asked: Cleo part 4 and any later marking work: what a letter covers
-  Scores, Haiku 1-3 then Sonnet 1-3 (R right, W wrong, - not said): as left RRRRRR, tended RRRRRR.

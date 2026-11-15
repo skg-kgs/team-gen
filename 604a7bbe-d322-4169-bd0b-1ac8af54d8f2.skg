@@ -1,7 +1,0 @@
-title: 'Q10, limit: A server starts and finds both ''readiness-marks-skgconfig.json'' and ''processed-marks-skgconfig.json'' in the data root. Which does it load, and under what condition may the code that reads the old name be deleted?'
-pid: 604a7bbe-d322-4169-bd0b-1ac8af54d8f2
-body: |2-
-  Key: Must say: it loads the new 'processed-marks' file; the old name is read only when the new file is absent (then saved under the new name at once, the old left in place). The fallback may be deleted once every data folder that held an old file also holds a new one, by whoever next works on the store; old files deleted by Jeff (his) and Top (the team's). Wrong: 'the old file wins', 'they are merged', or 'delete the fallback now'.
-  Where, as left: drawn: plan > Decisions > "The marks file is read from its old name when the new one is absent, and the old file is left in place."
-  Why asked: anyone next touching the processed store; Jeff's restart
-  Scores, Haiku 1-3 then Sonnet 1-3 (R right, W wrong, - not said): as left RRRRRR, tended ------.

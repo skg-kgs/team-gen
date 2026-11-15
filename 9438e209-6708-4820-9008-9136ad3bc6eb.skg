@@ -1,5 +1,0 @@
-title: The coordinator does not write the plan.
-pid: 9438e209-6708-4820-9008-9136ad3bc6eb
-body: |2-
-  In Anthropic's research system the lead agent plans. Top does not
-  read code, by Jeff's suggestion of 2026-11-12, and costs most per word.

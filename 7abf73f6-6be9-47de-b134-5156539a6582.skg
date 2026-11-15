@@ -1,6 +1,0 @@
-title: '? A reviewing subagent finds more in a slice of some 400 lines than in the whole change.'
-pid: 7abf73f6-6be9-47de-b134-5156539a6582
-body: |2-
-  Cisco's figure is for people. Trial: the next part over 1000 changed
-  lines; one subagent reviews it whole and others in slices, and the
-  builder counts the real findings each made.

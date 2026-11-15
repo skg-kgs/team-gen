@@ -1,7 +1,0 @@
-title: 'Sadowski et al., "Modern Code Review: A Case Study at Google" (2018): review at Google is light and fast; the median change is some 24 lines, and the median count of reviewers one.'
-pid: cafdaed7-56dc-4665-a61b-f272908688ab
-body: |2-
-  https://research.google/pubs/modern-code-review-a-case-study-at-google/
-  Summary, unchecked: the figures are from lecture slides and notes on
-  the paper; I did not open it. Nine million reviewed changes, 12
-  interviews, 44 survey answers.

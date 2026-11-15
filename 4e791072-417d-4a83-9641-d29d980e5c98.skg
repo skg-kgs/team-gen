@@ -1,7 +1,0 @@
-title: 'Q14, superseded: What is the marks file of a server whose config is ''skgconfig.toml'' called now, and what is the config key that names it?'
-pid: 4e791072-417d-4a83-9641-d29d980e5c98
-body: |2-
-  Key: Newer answer: 'processed-marks-skgconfig.json' in the data root; config key 'processed_marks_file'. Wrong: 'readiness-marks-skgconfig.json' or 'readiness_marks_file' given as current (they are the pre-part-2 names; the old file is only read as a fallback). Before-graph has both old and new.
-  Where, as left: drawn: plan > Decisions > "'Processed' replaces 'ready' everywhere ..." (the forms) and "The marks file is read from its old name ..."; to Claude part-2 report
-  Why asked: Jeff's restart and cleanup; anyone touching the store
-  Scores, Haiku 1-3 then Sonnet 1-3 (R right, W wrong, - not said): as left RRRRRR, tended ------.

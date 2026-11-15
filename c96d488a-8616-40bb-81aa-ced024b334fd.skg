@@ -1,9 +1,0 @@
-title: 'ITIL 4, change enablement: who approves a change is set by its risk; low-risk, repeatable changes are pre-authorized, and not every change goes to one board.'
-pid: c96d488a-8616-40bb-81aa-ced024b334fd
-body: |2-
-  https://itsm.tools/change-enablement/
-  Read in a summary by a vendor, not in ITIL's own text, which is
-  sold. Normal changes are assessed by "urgency, complexity, and
-  impact"; the authority may be a peer, an automated rule, or the
-  business owner for high risk. The page gives no method for
-  assessing risk. This is the root of step 4's tiers.

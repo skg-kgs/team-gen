@@ -1,8 +1,0 @@
-title: 'Mem0 (Chhikara et al. 2025, and Mem0''s own post of April 2026): its memory once updated and deleted facts as new ones came; in 2026 it went to adding only, because "Overwrites sometimes erased key information", and scored higher on its own runs of two benchmarks.'
-pid: 058615b4-e4fb-4e4c-a96a-42849d103ce0
-body: |2-
-  https://mem0.ai/blog/mem0-the-token-efficient-memory-algorithm
-  Read the post; the 2025 paper (arXiv 2504.19413) only in summaries.
-  LoCoMo 71.4 to 92.5, LongMemEval 67.8 to 94.4, run by Mem0. Settling
-  contradictions is still among its weakest categories. Took: a vendor
-  with every reason to keep consolidating stopped overwriting.

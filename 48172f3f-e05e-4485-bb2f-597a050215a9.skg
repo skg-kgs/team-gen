@@ -1,7 +1,0 @@
-title: 'Huang et al., "Large Language Models Cannot Self-Correct Reasoning Yet" (2023): without feedback from outside, models struggle to correct themselves, and can get worse.'
-pid: 48172f3f-e05e-4485-bb2f-597a050215a9
-body: |2-
-  https://arxiv.org/abs/2310.01798
-  Abstract. "Their performance even degrades after self-correction."
-  Took: the builder rereading its work is not review; a finding must
-  rest on the plan, the code, or a failing test.

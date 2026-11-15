@@ -1,7 +1,0 @@
-title: 'Q2, fact: A user puts point on a new node and types C-u C-c m b p. What exactly should the client write into the metadata of that headline, the headlines under it, and the new nodes among them?'
-pid: 348668bd-6138-4a5b-865f-db4909021caf
-body: |2-
-  Key: Must say: '(editRequest (processed node rel))' on the headline and on each headline below it that lists those objects, and '(editRequest (processed node rel newContent))' on each new node among them. Wrong: naming 'all', or 'newOutward' (that is C-u C-u), or only the top headline.
-  Where, as left: drawn: plan > Decisions > "On the wire a mark names 'node', 'rel' or both, beside 'newContent' or 'newOutward' for a walk; 'all' goes." (the examples)
-  Why asked: Cleo, part 4: 'Send requests exactly as the decision's examples'
-  Scores, Haiku 1-3 then Sonnet 1-3 (R right, W wrong, - not said): as left RRRRRR, tended ------.

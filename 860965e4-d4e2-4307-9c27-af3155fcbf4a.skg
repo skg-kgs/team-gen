@@ -1,7 +1,0 @@
-title: 'Q13, superseded: What does ''(processed node)'' mark on a node whose title and aliases changed?'
-pid: 860965e4-d4e2-4307-9c27-af3155fcbf4a
-body: |2-
-  Key: Newer answer: every leaf of the node itself: its existence and, on a modified node, its text (title/body), home skgrepo, aliases, extra IDs and flags, plus any leaf it records that no 'rel' on or under its headline names. Wrong: 'only its existence' (the meaning before part 3). Before-graph holds both: the old ('today's object node is existence alone', in the to-Claude plan message) and the new (wire decision).
-  Where, as left: drawn: plan > Decisions > wire decision ('The objects. node names every leaf of the node itself ...'); old meaning in to Claude > "2026-11-13: The plan for Jeff's three diff-view changes is written ..." ('Surprising')
-  Why asked: Cleo part 4; Vic 15:55 (a changed title under M)
-  Scores, Haiku 1-3 then Sonnet 1-3 (R right, W wrong, - not said): as left RRRRRR, tended RRRRRR.

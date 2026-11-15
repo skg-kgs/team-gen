@@ -1,7 +1,0 @@
-title: 'Q24, not-said: Why did Jeff''s own Emacs take 5.7 s to show a mark after the server answered, when batch Emacs took 0.4 s?'
-pid: c796c33d-4d35-4d20-ad65-fc80d3e1ebe5
-body: |2-
-  Key: Right: my notes do not say; they record that nobody has explained it. Wrong: attributing it to a cause (TCP_NODELAY, the pre-send snapshot, the cache emptying, etc.) as if the notes said so.
-  Where, as left: absent: design > "Speed is not in the way ..." ('Nobody has explained why ...')
-  Why asked: speed work; Jeff's complaint of slowness
-  Scores, Haiku 1-3 then Sonnet 1-3 (R right, W wrong, - not said): as left RRRRRR, tended RRRRRR.

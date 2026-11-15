@@ -1,7 +1,0 @@
-title: Review is by fresh subagents, not by a colleague or the code's owner.
-pid: ce953266-0423-4c68-87c1-d92981f6faed
-body: |2-
-  At Google and Microsoft a person reviews, often the code's owner.
-  Here that is a mission per change; the owner's knowledge reaches the
-  reviewer through its map, and the owner reads the commits later, for
-  awareness, which Bacchelli and Bird found is much of what review gives.

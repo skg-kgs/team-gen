@@ -1,7 +1,0 @@
-title: 'Q8, limit: Since part 1 drops redundant ancestors from a node''s folders: does a view''s grandparent also disappear from the containers folder, and does the ''These link to it.'' (mentioners) folder or the subscribers folder now skip view-ancestors too?'
-pid: 483b9d58-ce09-4d49-8170-ca7f084c0812
-body: |2-
-  Key: Must say: yes for any view-ancestor (not only the parent) in the containers folder; no for every other 'These ... it' folder (subscribers, hiders, overriders, mentioners), which keep listing view-ancestors by decision (only containment is shown by where a headline stands). Wrong: 'parent only', or 'all folders now skip ancestors'.
-  Where, as left: drawn: plan > Decisions > "A container is left out when it is any view-ancestor ..." and "Only the containers folder leaves out view-ancestors. Drew's, refusing Tay's generalization."; Goals' 'Not done'
-  Why asked: Vic 15:55 (what part 1 leaves out of what a node draws); Drew
-  Scores, Haiku 1-3 then Sonnet 1-3 (R right, W wrong, - not said): as left RRRRRR, tended ------.

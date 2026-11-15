@@ -1,6 +1,0 @@
-title: 'Smit et al., "Should we be going MAD? A Look at Multi-Agent Debate Strategies for LLMs" (2024): debate does "not reliably outperform" self-consistency or ensembling over several reasoning paths.'
-pid: 8892ecb6-7807-403d-b8ce-ab42df7867ef
-body: |2-
-  https://arxiv.org/abs/2311.17371
-  Abstract. Some debate systems do better after tuning. Took, with Du:
-  debate is no reliable gain, and here each turn would be a mission.

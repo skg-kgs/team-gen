@@ -1,6 +1,0 @@
-title: 'Panickssery, Bowman and Feng, "LLM Evaluators Recognize and Favor Their Own Generations" (2024): a model scores its own outputs above others'' that people rate equal, and the bias grows with its ability to recognize itself.'
-pid: 4a4b88dd-b333-47f1-9c5b-e236d8f6b10b
-body: |2-
-  https://arxiv.org/abs/2404.13076
-  Abstract. Took: a reviewer of the builder's own model may go easy on
-  its code even in a fresh context (inferred; the paper does not test code).

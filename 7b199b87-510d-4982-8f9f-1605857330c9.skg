@@ -1,8 +1,0 @@
-title: 'Perez et al., "When LLMs Play the Telephone Game" (ICLR 2025): text rewritten by a model fifty times over drifts toward that model''s own attractors, more strongly the more open the instruction; "rephrase" drifted least.'
-pid: 7b199b87-510d-4982-8f9f-1605857330c9
-body: |2-
-  https://arxiv.org/abs/2407.04503
-  Read. Every model, task and property they tried converged somewhere;
-  length went down for some models and up for others. Took: one mind
-  rewriting every graph, again and again, would pull all of them toward
-  one voice, which Jeff's "maximum orthogonality" opposes.

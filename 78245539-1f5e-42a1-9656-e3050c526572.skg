@@ -1,6 +1,0 @@
-title: A decision changed later is edited in place, not superseded.
-pid: 78245539-1f5e-42a1-9656-e3050c526572
-body: |2-
-  Nygard and Rust keep old records and add new ones, because their
-  documents have no history. A skg note's history is in Git, and two
-  notes on one thing split every reader who holds one of them.

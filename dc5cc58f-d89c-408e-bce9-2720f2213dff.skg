@@ -1,7 +1,0 @@
-title: 'Q11, limit: To finish the ready-to-processed rename, should I change the gate''s message "Commit ready." to "Commit processed."? What else was deliberately left saying "ready"?'
-pid: dc5cc58f-d89c-408e-bce9-2720f2213dff
-body: |2-
-  Key: Must say: no; "Commit ready." stays (it says the commit can go ahead, not that a mark is set; "Commit processed." would read as a commit already made; tests match '^Commit ready\.'). Also left: 'TODO/', 'tests/results/', 'data/', and 'ready' in its ordinary sense (server ready line, ready sound, buffer ready to save), plus the old marks-file name in the fallback. Wrong: 'yes, rename it'.
-  Where, as left: drawn: plan > Decisions > "'Processed' replaces 'ready' everywhere ..." (the 'Left alone' paragraph)
-  Why asked: any later mission touching processed words (Cleo part 4, docs)
-  Scores, Haiku 1-3 then Sonnet 1-3 (R right, W wrong, - not said): as left RRRRRR, tended ------.
