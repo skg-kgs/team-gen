@@ -1,0 +1,9 @@
+title: 'In the graph: a note is found again where a parent existed whose title predicts it.'
+pid: 041e5af8-63c8-489e-9e60-b11117c24ec6
+body: |2-
+  Top found it in three tendings ("A reader of a plan files its
+  reading well if its graph already has the place", in the team note).
+  A prediction, testable from Git alone: of the notes written in
+  missions, those put under a parent that existed before the mission
+  are moved by a later tending less often than those put on top, or
+  under a parent made in the same mission.

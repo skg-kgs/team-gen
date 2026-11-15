@@ -1,0 +1,8 @@
+title: 'Letta, "Benchmarking AI Agent Memory: Is a Filesystem All You Need?" (2025): an agent with only grep, search and open over plain files answered 74% of LoCoMo, above the 68.5% Mem0 reported for its graph memory.'
+pid: accb802a-2b0f-4f72-80a7-a646f2b3f7f5
+body: |2-
+  Read whole, 2026-11-15. The vendor's own figures, unreproduced; Mem0
+  did not explain its own. "Memory is more about how agents manage
+  context than the exact retrieval mechanism used"; tools in the
+  training data are used best. Took: the case for skg cannot be
+  better retrieval.
